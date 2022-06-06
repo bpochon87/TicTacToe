@@ -1,3 +1,3 @@
 # Tic Tac Toe
 
-The classic Tic Tac Toe game with squeaky cat noises and cat graphics! Made with HTML, CSS, and JavaScript.
+Tic-Tac-Toe was recreated with cat heads, kitten noises, and win or tie sound effects. User plays against the computer where its choices are randomly generated.
